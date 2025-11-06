@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
 
-class clienteController extends Controller
+class ClienteController extends Controller
 {
     public function __construct(){
         $this->middleware('auth');
