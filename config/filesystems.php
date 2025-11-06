@@ -56,6 +56,11 @@ return [
             'throw' => false,
         ],
 
+        'archivos' => [
+            'driver' => 'local',
+            'root' => storage_path('app/public/archivos'),
+        ],
+
     ],
 
     /*
