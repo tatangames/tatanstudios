@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="{{ asset('css/login/bootstrap.min.css') }}">
 
     <!-- icono del sistema -->
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/zona-fitness-favicon-32x32.png') }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/zona-fitness-favicon-16x16.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/ultra.jpg') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/ultra.jpg') }}">
     <!-- libreria -->
     <link href="{{ asset('plugins/fontawesome-free/css/all.min.css') }}" type="text/css" rel="stylesheet" />
 
