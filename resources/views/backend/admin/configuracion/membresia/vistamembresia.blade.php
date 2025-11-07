@@ -12,8 +12,7 @@
 
 @section('content_top_nav_right')
 
-    <script src="{{ asset('css/toastr.min.css') }}" type="text/javascript"></script>
-
+    <link href="{{ asset('css/toastr.min.css') }}" type="text/css" rel="stylesheet" />
     <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#" title="Tema">
             <i id="theme-icon" class="fas fa-sun"></i>
