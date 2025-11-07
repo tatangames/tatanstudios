@@ -124,6 +124,7 @@
         @stop
 
         @section('js')
+            <script src="{{ asset('js/toastr.min.js') }}" type="text/javascript"></script>
 
             <script src="{{ asset('js/axios.min.js') }}" type="text/javascript"></script>
             <script src="{{ asset('js/sweetalert2.all.min.js') }}"></script>
