@@ -8,7 +8,6 @@
 {{-- Activa plugins que necesitas --}}
 @section('plugins.Datatables', true)
 @section('plugins.DatatablesPlugins', true)
-@section('plugins.Toastr', true)
 @section('plugins.Sweetalert2', true)
 
 @section('content_top_nav_right')
