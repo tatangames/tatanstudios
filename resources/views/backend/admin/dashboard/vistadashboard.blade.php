@@ -3,6 +3,8 @@
 @section('title', 'Dashboard')
 
 @section('content_header')
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/ultra.jpg') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/ultra.jpg') }}">
     <h1>Dashboard</h1>
 @stop
 {{-- Activa plugins que necesitas --}}
