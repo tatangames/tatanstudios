@@ -8,9 +8,9 @@
 {{-- Activa plugins que necesitas --}}
 @section('plugins.Datatables', true)
 @section('plugins.DatatablesPlugins', true)
-@section('plugins.Toastr', true)
 
 @section('content_top_nav_right')
+    <link href="{{ asset('css/toastr.min.css') }}" type="text/css" rel="stylesheet" />
 
     <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#" title="Tema">
