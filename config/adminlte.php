@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Zona Fitness Gym',
+    'title' => 'ULTRA FITNESS',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -63,8 +63,8 @@ return [
     |
     */
 
-    'logo' => '<b>Zona Fitness Gym</b>',
-    'logo_img' => 'images/logogym.png',
+    'logo' => '<b>ULTRA FITNESS</b>',
+    'logo_img' => 'images/ultra.jpg',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',

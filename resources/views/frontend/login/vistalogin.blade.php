@@ -75,10 +75,10 @@
                 <div class="row">
                     <div class="col-lg-6 col-12 mx-auto">
                         <div class="text-center image-size-small position-relative">
-                            <img src="{{ asset('images/logogym.png') }}" class="rounded-circle p-2 bg-white">
+                            <img src="{{ asset('images/ultra.jpg') }}" class="rounded-circle p-2 bg-white">
                         </div>
                         <div class="p-5 bg-white rounded shadow-lg">
-                            <h3 class="mb-2 text-center pt-5"><strong>ZONA FITNESS GYM</strong></h3>
+                            <h3 class="mb-2 text-center pt-5"><strong>ULTRA FITNESS</strong></h3>
                             <form>
                                 <label style="margin-top: 10px" class="font-500">Usuario</label>
                                 <input class="form-control form-control-lg mb-3" id="usuario" autocomplete="off" type="text">
