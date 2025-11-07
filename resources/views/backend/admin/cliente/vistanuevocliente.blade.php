@@ -2,6 +2,11 @@
 
 @section('title', 'Nuevo Cliente')
 
+@section('meta_tags')
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/ultra.jpg') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/ultra.jpg') }}">
+@endsection
+
 @section('content_header')
     <h1>Nuevo Cliente</h1>
 @stop
