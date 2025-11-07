@@ -15,7 +15,7 @@
 
 @section('content_top_nav_right')
     <link href="{{ asset('css/toastr.min.css') }}" type="text/css" rel="stylesheet" />
-    <script src="{{ asset('js/toastr.min.js') }}" type="text/javascript"></script>
+
 
     <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#" title="Tema">
@@ -162,7 +162,7 @@
 
 
 @section('js')
-
+            <script src="{{ asset('js/toastr.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/axios.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/alertaPersonalizada.js') }}"></script>
 
